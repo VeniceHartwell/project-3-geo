@@ -89,3 +89,4 @@ Weighted value of all requirements: Multiply weighted ranks by distance to each 
 9. Dog Groomer (25)
 
 ## 5. Visualize Results
+See Analysis.ipynb
